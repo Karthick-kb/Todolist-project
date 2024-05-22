@@ -18,3 +18,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
     Open todo.html in your web browser.
     Start managing your tasks!
 ![todo](https://github.com/Karthick-kb/Todolist-project/assets/170465049/29219fb6-5778-4549-9b62-879d7f496fe0)
+
+<h3>After deleting the completed task</h3>
+
+![tododelete](https://github.com/Karthick-kb/Todolist-project/assets/170465049/74f84f9b-ff09-4c88-a3aa-0d1bf2b8f9af)
