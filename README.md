@@ -1,7 +1,7 @@
-To-Do List Web App
+<h1>To-Do List Web App</h1>
 This is a simple to-do list web application built using HTML, CSS, and JavaScript.
 
-Features
+<h3>Features</h3>
 
 
 
@@ -9,7 +9,8 @@ Features
      Mark tasks as completed
      Delete tasks    
          
-Getting Started
+
+<h3>Getting Started</h3>
 
 
 
