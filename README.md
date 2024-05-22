@@ -17,3 +17,4 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
     Clone this repository to your local machine.
     Open todo.html in your web browser.
     Start managing your tasks!
+![todo](https://github.com/Karthick-kb/Todolist-project/assets/170465049/29219fb6-5778-4549-9b62-879d7f496fe0)
