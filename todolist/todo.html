@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="todo.css">
+</head>
+<body>
+    
+    <div class="header">
+        <h1 style="padding-top: 20px;">TO DO LIST</h1>
+        <h4 style="padding-bottom: 10px;">Increase your productivity and efficiently manage your day-to-day tasks!</h4>
+    </div>
+    <div class="tasks">
+          <h3 style="margin-left: 20px;">Add your tasks...</h3>
+          <div class="individualtask" onclick="changebg(event)" > <h4>CLEAN THE ROOM</h4><button class="del" onclick="deletetask(event)">X</button></div>
+    
+    </div>
+    <button class="add" id="addbtn"><h3>+</h3></button>
+
+    <div class="overlay" id="over-lay"></div>
+    <div class="popupbox" id="popup-box">
+        <input  type="text" placeholder="Type your task..." id="inputtask" class="inputbox"><br>
+        <button id="addtaskbtn">ADD TASK</button>
+        <button id="cancelbtn">CANCEL</button>
+    </div>
+    <script src="todo.js"></script>
+
+</body>
+</html>
